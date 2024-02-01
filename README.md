@@ -1,14 +1,14 @@
 Hi 👋 My name is AMAL THAHSEEN
 ==============================
 
-Web designer and Developer
+BCA & CLOUD COMPUTING
 --------------------------
 
-I've been learning to code for 2 years , after switching careers. I started with HTML,and I found a passion in it....
+I've been learning to code for 2 years , after switching careers. I started with Cloud computing,and I found a passion in it....
 
 * 🌍  I'm based in kerala
 * ✉️  You can contact me at [amalthahsy2017@gmail.com](mailto:amalthahsy2017@gmail.com)
-* 🧠  I'm learning react js
+* 🧠  I'm learning CLoud Automation
 * 🤝  I'm open to collaborating on web designing and development
 * ⚡  im just a junior developer with some of experience
 
