@@ -7,10 +7,9 @@ BCA & CLOUD COMPUTING
 I've been learning to code for 2 years , after switching careers. I started with Cloud computing,and I found a passion in it....
 
 * 🌍  I'm based in kerala
-* ✉️  You can contact me at [amalthahsy2017@gmail.com](mailto:amalthahsy2017@gmail.com)
-* 🧠  I'm learning CLoud Automation
-* 🤝  I'm open to collaborating on web designing and development
-* ⚡  im just a junior developer with some of experience
+* ✉️  You can contact me at [amalthahsy10@gmail.com](mailto:amalthahsy10@gmail.com)
+* 🧠  linux Engineer | System Administrator | Cloud Engineer
+* ⚡  Redhat Certified System Administrator
 
 ### Skills
 
