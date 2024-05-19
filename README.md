@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://images.app.goo.gl/HGwdrKputo6aoW528"  />
+  <img height="200" src="https://i.gifer.com/5eKX.gif"  />
 </div>
 
 ###
@@ -63,10 +63,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amalthahsy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/amalthahsy/amalthahsy/output/snake.svg" alt="Snake animation" />
 
 ###
 
