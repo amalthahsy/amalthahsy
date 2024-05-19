@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F5eKX&psig=AOvVaw0i_u9UKJawqkfe8s38CFGl&ust=1716191500161000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjRosydmYYDFQAAAAAdAAAAABAE"  />
+  <img height="200" src="https://images.app.goo.gl/HGwdrKputo6aoW528"  />
 </div>
 
 ###
@@ -57,10 +57,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
